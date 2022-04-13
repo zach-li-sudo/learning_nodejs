@@ -1,0 +1,25 @@
+{
+  "name": "working-with-expressjs",
+  "version": "1.0.0",
+  "description": "use express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zach-li-sudo/learning_nodejs.git"
+  },
+  "author": "zl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zach-li-sudo/learning_nodejs/issues"
+  },
+  "homepage": "https://github.com/zach-li-sudo/learning_nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
